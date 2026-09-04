@@ -1,0 +1,5 @@
+actualpy
+httpx
+python-dotenv
+discord
+google-genai
